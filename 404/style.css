@@ -18,7 +18,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0px 5px 10px rgba(0,0,0,0.1);
 }
 #error-page .content{
   max-width: 600px;
@@ -35,11 +34,10 @@
   top: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(45deg, #71b7e6, #69a6ce, #b98acc, #ee8176, #b98acc, #69a6ce, #9b59b6);
+  background: rgba(72, 54, 153,0.9);
   background-size: 400%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow: 1px 1px 2px rgba(255,255,255,0.25);
 }
 
 .content h4{
@@ -57,7 +55,6 @@
   top: 0;
   left: 0;
   right: 0;
-  text-shadow: 1px 1px 2px rgba(255,255,255,0.4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -76,8 +73,8 @@
   border: 2px solid #69a6ce;
   color: #69a6ce;
   font-weight: 500;
-  padding: 10px 25px;
-  border-radius: 25px;
+  padding: 10px 15px;
+  border-radius: 15px;
   text-transform: uppercase;
   transition: all 0.3s ease;
 }
