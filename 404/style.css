@@ -7,9 +7,8 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
   background: rgba(30,30,30,1);
-
-}
-body{
   height: 100vh;
+  text-align: center;
+  justify-content: center;
 }
 
