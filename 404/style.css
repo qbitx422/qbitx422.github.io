@@ -6,6 +6,9 @@
   outline: none;
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+
+}
+body{
   background: rgba(30,30,30,1);
   height: 100vh;
 }
