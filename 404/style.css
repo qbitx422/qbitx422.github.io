@@ -131,7 +131,7 @@ body {
 @media (max-width: 480px) {
   .error-code {
     font-size: clamp(1.8rem, 20vw, 5rem);
-    background-size: 44% auto;
+    background-size: 47% auto;
     background-position: center;
   }
   .error-title {
